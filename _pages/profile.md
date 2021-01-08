@@ -1,86 +1,94 @@
 ---
-layout: About Me
+layout: single
 permalink: /profile/
-title: "About Gyuree Kim"
+title: "Gyuree Kim"
 author_profile: true
 
 layouts_gallery:
-  - url: /assets/images/mm-layout-splash.png
-    image_path: /assets/images/mm-layout-splash.png
-    alt: "splash layout example"
-  - url: /assets/images/mm-layout-single-meta.png
-    image_path: /assets/images/mm-layout-single-meta.png
-    alt: "single layout with comments and related posts"
-  - url: /assets/images/mm-layout-archive.png
-    image_path: /assets/images/mm-layout-archive.png
-    alt: "archive layout example"
-last_modified_at: 2020-10-28T14:51:23-04:00
+  - url: /assets/images/profile_img.png
+    image_path: /assets/images/profile_img.png
+    alt: "profile imgage"
+  - url: /assets/images/profile_img.png
+    image_path: /assets/images/profile_img.png
+    alt: "profile imgage"
+
+last_modified_at: 2021-01-09T01:52:23-04:00
 toc: true
 ---
-Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your personal site, blog, or portfolio on GitHub or self-hosting on your own server. As the name implies --- styling is purposely minimalistic to be enhanced and customized by you :smile:.
+Hello world! 
 
-{% include gallery id="layouts_gallery" caption="Examples of included layouts `splash`, `single`, and `archive`." %}
+{% include gallery id="layouts_gallery" caption="Amaging person with `hi` and `hello`." %}
 
-[Install the Theme]({{ "/docs/quick-start-guide/" | relative_url }}){: .btn .btn--success .btn--large}
+## Education
+- Bachelor of Computer Software, Hanyang University<br>
+  Expected to graduate in Feb 2022
+- Hana Academy Seoul, Seoul, Republic of Korea<br>
+  Graduated in 2014
 
-## Notable Features
+## Awards
+- 중소벤처기업부 주관 예비창업패키지 선정 <br>
+  Jun 2020 - Jan 2021 
+- Dcamp Y.E.S. Demoday 최우수상 수상 <br>
+  Oct 2020
+- SK 행복나래 주관 SOVAC 대학생 사회혁신 아이디어 경진대회 우수상 <br>
+  Sep 2020
 
-- Bundled as a "theme gem" for easier install/upgrading.
-- Compatible with GitHub Pages.
-- Support for Jekyll's built-in Sass/SCSS preprocessor.
-- Nine different skins (color variations).
-- Several responsive layout options (single, archive index, search, splash, and paginated home page).
-- Optimized for search engines with support for [Twitter Cards](https://dev.twitter.com/cards/overview) and [Open Graph](http://ogp.me/) data
-- Optional [header images](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#headers), [custom sidebars](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#sidebars), [table of contents](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#table-of-contents), [galleries](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#gallery), related posts, [breadcrumb links](https://mmistakes.github.io/minimal-mistakes/docs/configuration/#breadcrumb-navigation-beta), [navigation lists](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#navigation-list), and more.
-- Commenting support (powered by [Disqus](https://disqus.com/), [Facebook](https://developers.facebook.com/docs/plugins/comments), [Discourse](https://www.discourse.org/), [utterances](https://utteranc.es/), static-based via [Staticman v1 and v2](https://staticman.net/), and custom).
-- [Google Analytics](https://www.google.com/analytics/) support.
-- UI localized text in English (default), Brazilian Portuguese (Português brasileiro), Catalan, Chinese, Danish, Dutch, Finnish, French (Français), German (Deutsch), Greek, Hindi (हिंदी), Hungarian, Indonesian, Irish (Gaeilge), Italian (Italiano), Japanese, Korean, Malayalam, Myanmar (Burmese), Nepali (Nepalese), Norwegian (Norsk), Persian (فارسی), Polish, Punjabi (ਪੰਜਾਬੀ), Romanian, Russian, Slovak, Spanish (Español), Swedish, Thai, Turkish (Türkçe), and Vietnamese.
+## Grades
+- OPIC -- Advanced Low(AL)
+- TOEIC Speaking -- Level 7
+- TOEIC -- 935
 
-## Demo Pages
+---
+## Experiences
+### General Experiences
+- APYE(Asia Pacific Youth Exchange) Global Symposium <br>
+  Jul 2019 - Aug 2019
+- Exchange Student at Technical University of Denmark(DTU) <br>
+  Jan 2019 - Jun 2019
+- Mentor as a Volunteer at Hana Academy Seoul <br>
+  Jan 2017 - Jan 2019
+- Global Student Council at Hanyang Univ. <br>
+  Jan 2018 - Jun 2018
+- Samsung Dreamclass Tutor <br>
+  Dec 2017 - Dec 2018
 
-| Name                                        | Description                                           |
-| ------------------------------------------- | ----------------------------------------------------- |
-| [Post with Header Image][header-image-post] | A post with a large header image. |
-| [HTML Tags and Formatting Post][html-tags-post] | A variety of common markup showing how the theme styles them. |
-| [Syntax Highlighting Post][syntax-post] | Post displaying highlighted code. |
-| [Post with a Gallery][gallery-post] | A post showing several images wrapped in `<figure>` elements. |
-| [Sample Collection Page][sample-collection] | Single page from a collection. |
-| [Categories Archive][categories-archive] | Posts grouped by category. |
-| [Tags Archive][tags-archive] | Posts grouped by tag. |
+### Job Experiences
+- **Internship......** <br>
+  Intern <br>
+  Jul 2021 - Aug 2021
+- **Hanguler** <br>
+  Development Team PM(Project Manager) <br>
+  Aug 2020 - Jan 2021
+- **Hanguler** <br>
+  IT consultant <br>
+  Jan 2020 - Jul 2020  
 
-For even more demo pages check the [posts archive][year-archive].
+---
 
-[header-image-post]: {{ "" | relative_url }}{% post_url 2012-03-15-layout-header-image-text-readability %}
-[gallery-post]: {{ "" | relative_url }}{% post_url 2010-09-09-post-gallery %}
-[html-tags-post]: {{ "" | relative_url }}{% post_url 2013-01-11-markup-html-tags-and-formatting %}
-[syntax-post]: {{ "" | relative_url }}{% post_url 2013-08-16-markup-syntax-highlighting %}
+## Projects
+
+| Name                                        | Period                                           | Description                                           |
+| ------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------- |
+| [NLP and text mining][categories-archive] | Mar 2021 - Dec 2021 | Senior project |
+| [NLP project][categories-archive] | Feb 2021 | NLP project |
+| [RN App for Blind people][categories-archive] | Jan 2021 | RN app for blind people |
+| [Reservation Website for Online Education Startup][hanguler-website] | Sep 2020 - Dec 2020| Online education startup(hanguler) official website |
+| [Simple Unity Video][header-image-post]| Aug 2020 | A simple Video with Unity |
+| [Android Studio3][html-tags-post] | Aug 2020 | Mask detection and face recognition android App  |
+| [Android Studio2][syntax-post] | Jul 2020 | Reservation android app |
+| [Android Studio1][gallery-post] | Jul 2020 | Simple phonebook, gallery android app |
+
+[hanguler-website]: {{ "" | relative_url }}{% post_url 2021-01-08-first-post %}
+[header-image-post]: {{ "" | relative_url }}{% post_url 2021-01-08-first-post %}
+[gallery-post]: {{ "" | relative_url }}{% post_url 2021-01-08-first-post %}
+[html-tags-post]: {{ "" | relative_url }}{% post_url 2021-01-08-first-post %}
+[syntax-post]: {{ "" | relative_url }}{% post_url 2021-01-08-first-post %}
 [sample-collection]: {{ "/recipes/chocolate-chip-cookies/" | relative_url }}
 [categories-archive]: {{ "/categories/" | relative_url }}
 [tags-archive]: {{ "/tags/" | relative_url }}
 [year-archive]: {{ "/year-archive/" | relative_url }}
 
 ---
-
-## Credits
-
-### Icons + Demo Images:
-
-- [The Noun Project](https://thenounproject.com) -- Garrett Knoll, Arthur Shlain, and [tracy tam](https://thenounproject.com/tracytam)
-- [Font Awesome](http://fontawesome.io/)
-- [Unsplash](https://unsplash.com/)
-
-### Other:
-
-- [Jekyll](https://jekyllrb.com/)
-- [jQuery](https://jquery.com/)
-- [Susy](http://susy.oddbird.net/)
-- [Breakpoint](http://breakpoint-sass.com/)
-- [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/)
-- [FitVids.JS](http://fitvidsjs.com/)
-- Greedy Navigation - [lukejacksonn](https://codepen.io/lukejacksonn/pen/PwmwWV)
-- [jQuery Smooth Scroll](https://github.com/kswedberg/jquery-smooth-scroll)
-- [Lunr](http://lunrjs.com)
-
 ---
 
-Minimal Mistakes is designed, developed, and maintained by Michael Rose. Just another boring, tattooed, designer from Buffalo New York.
+Description again....
