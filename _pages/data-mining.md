@@ -5,4 +5,3 @@ title: "Data mining"
 author_profile: true
 entries_layout: data-mining
 ---
-Data Mining
