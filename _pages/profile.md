@@ -36,7 +36,6 @@ Hello world!
 ## Grades
 - OPIC -- Advanced Low(AL)
 - TOEIC Speaking -- Level 7
-- TOEIC -- 935
 
 ---
 ## Experiences
