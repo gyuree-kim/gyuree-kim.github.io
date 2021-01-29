@@ -1,3 +1,10 @@
+---
+title: "개발 공부에 유용한 링크 모음"
+categories: etc
+---
+
+상시업데이트중.
+
 https://jazzybee.tistory.com/32
 # Common
  - 유료 강의 사이트 [인프런][https://www.inflearn.com/]
