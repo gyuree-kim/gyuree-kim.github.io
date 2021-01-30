@@ -37,10 +37,10 @@ Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your
 
 For even more demo pages check the [posts archive][year-archive].
 
-[header-image-post]: {{ "" | relative_url }}{% post_url 2021-01-08-first-post %}
-[gallery-post]: {{ "" | relative_url }}{% post_url 2021-01-08-first-post %}
-[html-tags-post]: {{ "" | relative_url }}{% post_url 2021-01-08-first-post %}
-[syntax-post]: {{ "" | relative_url }}{% post_url 2021-01-08-first-post %}
+<!-- [header-image-post]: {{ "" | relative_url }}{% post_url 2021-01-29-js %}
+[gallery-post]: {{ "" | relative_url }}{% post_url 2021-01-29-js %}
+[html-tags-post]: {{ "" | relative_url }}{% post_url 2021-01-29-js %}
+[syntax-post]: {{ "" | relative_url }}{% post_url 2021-01-29-js %} -->
 [sample-collection]: {{ "/recipes/chocolate-chip-cookies/" | relative_url }}
 [categories-archive]: {{ "/categories/" | relative_url }}
 [tags-archive]: {{ "/tags/" | relative_url }}

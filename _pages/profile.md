@@ -77,11 +77,11 @@ Hello world!
 | [Android Studio2][syntax-post] | Jul 2020 | Reservation android app |
 | [Android Studio1][gallery-post] | Jul 2020 | Simple phonebook, gallery android app |
 
-[hanguler-website]: {{ "" | relative_url }}{% post_url 2021-01-08-first-post %}
-[header-image-post]: {{ "" | relative_url }}{% post_url 2021-01-08-first-post %}
-[gallery-post]: {{ "" | relative_url }}{% post_url 2021-01-08-first-post %}
-[html-tags-post]: {{ "" | relative_url }}{% post_url 2021-01-08-first-post %}
-[syntax-post]: {{ "" | relative_url }}{% post_url 2021-01-08-first-post %}
+[hanguler-website]: {{ "" | relative_url }}{% post_url 2021-01-29-js %}
+[header-image-post]: {{ "" | relative_url }}{% post_url 2021-01-29-js %}
+[gallery-post]: {{ "" | relative_url }}{% post_url 2021-01-29-js %}
+[html-tags-post]: {{ "" | relative_url }}{% post_url 2021-01-29-js %}
+[syntax-post]: {{ "" | relative_url }}{% post_url 2021-01-29-js %}
 [sample-collection]: {{ "/recipes/chocolate-chip-cookies/" | relative_url }}
 [categories-archive]: {{ "/categories/" | relative_url }}
 [tags-archive]: {{ "/tags/" | relative_url }}
