@@ -1,6 +1,7 @@
 ---
-title: "개발 공부에 유용한 링크 모음"
-categories: etc
+title: 개발 공부에 유용한 링크 모음
+date: 2021-01-29 15:10
+categories: others
 ---
 
 상시업데이트중.
