@@ -19,7 +19,7 @@ Hello world!
 
 {% include gallery id="layouts_gallery" caption="Amaging person with `hi` and `hello`." %}
 
-## Education
+<!-- ## Education
 - Bachelor of Computer Software, Hanyang University<br>
   Expected to graduate in Feb 2022
 - Hana Academy Seoul, Seoul, Republic of Korea<br>
@@ -90,4 +90,4 @@ Hello world!
 ---
 ---
 
-Description again....
+Description again.... -->

@@ -4,9 +4,9 @@ main:
     url: /profile/
   - title: "Projects"
     url: /projects/
-  - title: "React Native"
+  - title: "Study"
     url: /app/
-  - title: "NLP"
-    url: /nlp/
-  - title: "Data Mining"
-    url: /data-mining/
+  # - title: "NLP"
+  #   url: /nlp/
+  # - title: "Data Mining"
+  #   url: /data-mining/
