@@ -1,5 +1,5 @@
 ---
-title: 개발 공부에 유용한 링크 모음
+title: "개발 공부에 유용한 링크 모음"
 date: 2021-01-29 15:10
 categories: others
 ---
