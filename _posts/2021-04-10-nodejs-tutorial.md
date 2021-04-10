@@ -1,3 +1,9 @@
+---
+title: "Become a Nodejs Developer with this Meterials!"
+date: 2021-04-10 19:30
+categories: nodejs
+---
+
 # Javascript
 
 ## Documentations
@@ -11,6 +17,7 @@
 
 ## Tutorials
 - [Geeksforgeeks](https://www.geeksforgeeks.org/JavaScript-tutorial/)
+- [기초 문법 요약 정리](https://gyuree-kim.github.io/javascript/js/)
 
 
 
