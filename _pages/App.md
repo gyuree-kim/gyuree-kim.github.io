@@ -1,7 +1,7 @@
 ---
 layout: categories
 permalink: /app/
-title: "React Native"
+title: "Study"
 author_profile: true
 entries_layout: nomadcoder
 ---
