@@ -1,5 +1,5 @@
 ---
-title: [google colab error] AttributeError: module 'tensorflow' has no attribute 'placeholder'
+title: "[google colab error] AttributeError: module 'tensorflow' has no attribute 'placeholder'"
 date: 2021-04-13 23:10
 categories: deep-learning
 ---

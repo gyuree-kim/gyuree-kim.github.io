@@ -101,40 +101,40 @@
 ### 암호화 알고리즘의 종류와 대표적인 기법들에 대해서 설명하자면?
 
 ## 머신러닝 / 딥러닝
-머신러닝과 딥러닝의 차이점은?
-머신러닝을 3가지로 분류한다면?
-Cross validation이란?
-gradient descent에 대해서 가능한 자세하게 설명한다면?
-모델의 성능 평가 지표에는 무엇이 있는가?
-하이퍼파라미터 튜닝은 어떻게 할 수 있을까?
-normalization과 regularization의 차이는?
-batch normalization이란? 어떻게 동작하는가?
-Activation Function에서 RELU함수를 많이 사용하는 이유는?
-Max Pooling을 하는 이유는?
-Global Average pooling이란?
-SVM이란?
-overfitting이란?
-CNN의 장점은?
-로지스틱 회귀란? 언제 로지스틱 회귀를 사용할 수 있을까?
-Local Minima를 해결하는 방법은?
-gradient vanishing이 생기는 이유는? 이를 해결할 수 있는 방법은 무엇이 있을까?
-back propagation이란?
-word2vec의 원리는?
-auto encoder에 대해서 설명한다면?
-sgd와 momentum에 대해서 설명해주세요
-cost function이란?
-activation function을 사용하는 이유는?
-차원의 저주란?
-l2, l1 정규화란?
-앙상블을 사용하는 이유는?
-CAM이란?
-원-핫 인코딩이란?
-n-gram은 무엇인가요?
-stop words란? 왜 stop words를 제거해야 하나요?
-weight initialization이란? 어떤 방법들이 있는가?
-협업 필터링이란?
-GAN이란?
-엔트로피란?
-accuracy, recall, precision이란? 각각은 언제 사용하는 것이 좋을까?
-k-fold cross validation이란?
-likelihood란? 이를 정규분포에서 어떻게 설명할 수 있을까?
+### 머신러닝과 딥러닝의 차이점은?
+### 머신러닝을 3가지로 분류한다면?
+### Cross validation이란?
+### gradient descent에 대해서 가능한 자세하게 설명한다면?
+### 모델의 성능 평가 지표에는 무엇이 있는가?
+### 하이퍼파라미터 튜닝은 어떻게 할 수 있을까?
+### normalization과 regularization의 차이는?
+### batch normalization이란? 어떻게 동작하는가?
+### Activation Function에서 RELU함수를 많이 사용하는 이유는?
+### Max Pooling을 하는 이유는?
+### Global Average pooling이란?
+### SVM이란?
+### overfitting이란?
+### CNN의 장점은?
+### 로지스틱 회귀란? 언제 로지스틱 회귀를 사용할 수 있을까?
+### Local Minima를 해결하는 방법은?
+### gradient vanishing이 생기는 이유는? 이를 해결할 수 있는 방법은 무엇이 있을까?
+### back propagation이란?
+### word2vec의 원리는?
+### auto encoder에 대해서 설명한다면?
+### sgd와 momentum에 대해서 설명해주세요
+### cost function이란?
+### activation function을 사용하는 이유는?
+### 차원의 저주란?
+### l2, l1 정규화란?
+### 앙상블을 사용하는 이유는?
+### CAM이란?
+### 원-핫 인코딩이란?
+### n-gram은 무엇인가요?
+### stop words란? 왜 stop words를 제거해야 하나요?
+### weight initialization이란? 어떤 방법들이 있는가?
+### 협업 필터링이란?
+### GAN이란?
+### 엔트로피란?
+### accuracy, recall, precision이란? 각각은 언제 사용하는 것이 좋을까?
+### k-fold cross validation이란?
+### likelihood란? 이를 정규분포에서 어떻게 설명할 수 있을까?
