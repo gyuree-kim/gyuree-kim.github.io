@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: "tags"
 permalink: /projects/
 title: "Project List"
 author_profile: true
