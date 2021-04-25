@@ -23,7 +23,7 @@ Tamplate!!!!
 
 ### [영어 연습가이드 #41] - "생각할수록 좀 아닌 것 같더라고"
 - Date: 2021-01-21
-- Youtube channel is [here][https://www.youtube.com/watch?v=ArE86nIKbpc&list=PLIsIUJcT0HIU3r526hLOSkF3zAw7tqyx8&index=60]
+- Youtube channel is [here](https://www.youtube.com/watch?v=ArE86nIKbpc&list=PLIsIUJcT0HIU3r526hLOSkF3zAw7tqyx8&index=60)
 - Pattern: `I considered + ing` + ... + `but` + ... + `and the more I thought about it, it just wasn't worth it.`
 #### Sentence1
 - 경험을 위해서 거기서 몇 달 더 일을 해볼까 생각은 해봤는데 조건이 별로 좋지 않아서 생각할수록 좀 아닌 것 같더라고.

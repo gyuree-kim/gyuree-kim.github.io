@@ -1,3 +1,9 @@
+---
+title: "Youtube Live Academy"
+date: 2021-01-22
+categories: english
+---
+
 https://www.youtube.com/watch?v=ArE86nIKbpc&list=PLIsIUJcT0HIU3r526hLOSkF3zAw7tqyx8&index=60
 
 "직업을 가지고 어느 정도 오래 일을 해온 사람들은 이런게 있는 것 같아요 -

@@ -4,8 +4,7 @@ title: 라이브아카데미 [ 영어 연습가이드 - HARDCORE ] How much is y
 categories: live-academy
 ---
 
-2021-01-26 and 27
-https://www.youtube.com/watch?v=gW5rJ03DCfs
+[Link](https://www.youtube.com/watch?v=gW5rJ03DCfs)
 
 [한국어]
 "우리의 현재 경제 상태에서는 어떻게 돈을 더 벌지는 물론, 소비를 어떻게 더 줄일지에 대해서 생각을 하지 않을 수가 없다. 
