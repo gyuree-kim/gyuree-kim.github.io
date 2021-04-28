@@ -1,12 +1,6 @@
 # main links
 main:
-  - title: "Profile"
-    url: /profile/
-  - title: "Projects"
-    url: /projects/
-  - title: "Study"
-    url: /app/
-  # - title: "NLP"
-  #   url: /nlp/
-  # - title: "Data Mining"
-  #   url: /data-mining/
+  - title: "Tags"
+    url: /tags/
+  - title: "Categories"
+    url: /categories/

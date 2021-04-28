@@ -1,3 +1,9 @@
+---
+title: "Programmer interview questions: 개발자 기술면접 예상질문 목록"
+date: 2021-01-20 14:29:28 -0400
+tag: etc
+---
+
 [참고사이트][https://butter-shower.tistory.com/184?category=716065]
 
 ## Database
