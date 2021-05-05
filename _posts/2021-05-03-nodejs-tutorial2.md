@@ -18,7 +18,16 @@ npm install express mongodb mongoose
 설치가 완료되면 프로젝트를 시작합시다. 일단, `nodejs`가 동작하도록 합시다. 본 포스트에서는 가장 간단하지만 웬만한 프로젝트 구성에 어려움이 없도록 효율적으로 학습하고자 합니다.
 
 ### 프로젝트 구조
-![image](../assets/images/nodejs-server-architecture.PNG)
+```
+server/
+├─ models/
+│  └─ userSchema.js
+├─ routes/
+│  └─ index.js
+├─ uploads/
+└─  app.js
+```
+
 #### 각 디렉토리 설명
 - `server`: <br>
 프로젝트 이름을 넣거나, 프론트엔드와 백엔드를 하나의 레포에서 관리할 경우 이미지와 같이 `server` 또는 `backend` 등의 이름으로 입력합니다.
